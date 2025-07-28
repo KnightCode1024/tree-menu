@@ -1,8 +1,8 @@
 # Древовидное меню для Django
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
-[![Django](https://img.shields.io/badge/Django-4.2%2B-green)](https://djangoproject.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-blue)](https://www.postgresql.org)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-5.2%2B-green)](https://djangoproject.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17%2B-blue)](https://www.postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-24.0%2B-blue)](https://www.docker.com)
 
 ## Требования
